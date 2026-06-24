@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://styleup-da08ea80.zappy5.app
+https://example.com
 חנות בגדי פרימיום המציעה חוויית קנייה מעודנת ויוקרתית. קולקציות אופנה על-זמניות, איכות בלתי מתפשרת ועיצובים מרהיבים שמשדרים תחכום. היכנסו עכשיו וגלו את הסטייל המושלם שלכם.
 
 ### אודות
-https://styleup-da08ea80.zappy5.app/about
+https://example.com/about
 הכירו את הסיפור של StyleUp – מותג אופנה המחויב למצוינות, איכות גבוהה ועיצוב על-זמני. אנו יוצרים חוויית לבוש שמשדרגת כל רגע בחיים. הצטרפו למסע האופנה היוקרתי שלנו.
 
 ### גלריה
-https://styleup-da08ea80.zappy5.app/gallery
+https://example.com/gallery
 דפדפו בגלריה החזותית שלנו וגלו פריטי לבוש אלגנטיים שצולמו בהשראת מסלולי התצוגה. כל תמונה מספרת סיפור של יוקרה וסטייל. התאהבו בפרטים הקטנים שעושים את ההבדל.
 
 ### צור קשר
-https://styleup-da08ea80.zappy5.app/contact
+https://example.com/contact
 מוכנים לשדרג את המלתחה? צרו קשר עם צוות המומחים של StyleUp לקבלת ייעוץ סטיילינג אישי, שאלות על פריטים או כל בקשה אחרת. אנחנו כאן כדי להפוך את חוויית הקנייה שלכם למושלמת.
 
 ### Products
-https://styleup-da08ea80.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - StyleUp
 
 ### Cart
-https://styleup-da08ea80.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://styleup-da08ea80.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://styleup-da08ea80.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://styleup-da08ea80.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://styleup-da08ea80.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://styleup-da08ea80.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - StyleUp
 
 ### Category
-https://styleup-da08ea80.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - StyleUp
 
 ### תודה רבה | StyleUp
-https://styleup-da08ea80.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה על פנייתך ל-StyleUp. קיבלנו את הודעתך ונחזור אליך בהקדם עם כל המידע בנושא Fashion & Apparel.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://styleup-da08ea80.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://styleup-da08ea80.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://styleup-da08ea80.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Fashion & Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://styleup-da08ea80.zappy5.app/sitemap.xml
-- Robots: https://styleup-da08ea80.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://styleup-da08ea80.zappy5.app/llms-full.txt
-- Products (JSON): https://styleup-da08ea80.zappy5.app/products.json
-- Products (Google Merchant RSS): https://styleup-da08ea80.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
